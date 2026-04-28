@@ -913,7 +913,8 @@ SOFTWARE.
 ### Project Maintainer
 
 **Name**: SANATH VARMA AAKIREDDY 
-**Email**: sanathvarma999@gmail.com.com  
+
+**Email**: sanathvarma999@gmail.com 
 **GitHub**: [@sanath varma](https://github.com/sanath-varma)  
 **LinkedIn**: [Sanath - ECE Engineer](www.linkedin.com/in/sanath-varma-aakireddy)
 
