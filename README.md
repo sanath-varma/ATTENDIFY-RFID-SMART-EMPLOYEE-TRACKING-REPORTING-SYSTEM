@@ -918,7 +918,7 @@ SOFTWARE.
 
 **GitHub**: [@sanath varma](https://github.com/sanath-varma)  
 
-**LinkedIn**: [Sanath - ECE Engineer](www.linkedin.com/in/sanath-varma-aakireddy)
+**LinkedIn**: www.linkedin.com/in/sanath-varma-aakireddy
 
 
 ### Get Help
