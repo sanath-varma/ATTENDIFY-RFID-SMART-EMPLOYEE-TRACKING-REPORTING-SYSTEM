@@ -1,0 +1,82 @@
+# ATTENDIFY-RFID .gitignore
+
+# Compiled Object files
+*.o
+*.obj
+*.elf
+
+# Compiled Binary files
+*.bin
+*.hex
+*.axf
+
+# Keil µVision files
+*.uvgui.*
+*.uvopt
+*.bak
+*.dep
+*.d
+*.crf
+*.lst
+*.map
+*.lnp
+*.plg
+*.tra
+*.htm
+*.build_log.htm
+DebugConfig/
+Listings/
+Objects/
+RTE/
+
+# Flash Magic
+*.log
+
+# Linux executable
+linux_host/attendance_system
+*.out
+
+# Database files (optional - remove if you want to track CSV)
+# *.csv
+
+# Temporary files
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Build directories
+build/
+bin/
+obj/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# System files
+.directory
+desktop.ini
+
+# Documentation build files
+docs/_build/
+*.aux
+*.toc
+*.out
+*.log
+
+# Backup files
+*.backup
+*.old
+
+# GCC/ARM toolchain
+*.a
+*.so
+*.lib
