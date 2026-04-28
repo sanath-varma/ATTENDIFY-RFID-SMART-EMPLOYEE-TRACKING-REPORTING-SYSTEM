@@ -858,7 +858,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [AAKIREDDY SANATH VARMA]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -912,17 +912,15 @@ SOFTWARE.
 
 ### Project Maintainer
 
-**Name**: Sanath  
-**Email**: sanath@example.com  
-**GitHub**: [@sanath](https://github.com/sanath)  
-**LinkedIn**: [Sanath - ECE Engineer](https://linkedin.com/in/sanath)
+**Name**: SANATH VARMA AAKIREDDY 
+**Email**: sanathvarma999@gmail.com.com  
+**GitHub**: [@sanath varma](https://github.com/sanath-varma)  
+**LinkedIn**: [Sanath - ECE Engineer](www.linkedin.com/in/sanath-varma-aakireddy)
 
 ### Get Help
 
-- 📖 **Documentation**: Read the [Wiki](https://github.com/yourusername/attendify-rfid/wiki)
-- 💬 **Discussions**: Join [GitHub Discussions](https://github.com/yourusername/attendify-rfid/discussions)
-- 🐛 **Issues**: Report bugs [here](https://github.com/yourusername/attendify-rfid/issues)
-- 📧 **Email**: For private inquiries: sanath@example.com
+- 📧 **Email**: For private inquiries: sanathvarma999@gmail.com
+
 
 ---
 
