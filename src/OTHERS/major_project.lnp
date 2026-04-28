@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "startup.o" "interrupt.o" "admin.o" "lcd.o" "delay.o" "test.o" "rtc.o" "rtc_edit.o" "kpm.o" "uart1.o" "spi_protocol.o" "uart.o" --strict --scatter "major_project.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\major_project.map" -o "major_project.axf"
